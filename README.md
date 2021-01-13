@@ -43,10 +43,10 @@ void myinit(GLFWwindow** window)
 
 	// pos の初期化
     for(int i=0; i<256; i++){
-        pos[3*i  ] = 0;
-        pos[3*i+1] = 0;
-        pos[3*i+2] = 0;
-        //...
+        pos[3*i  ] = (rand()%100-50)*0.5;
+        pos[3*i+1] = (rand()%100-50)*0.5;
+        pos[3*i+2] = (rand()%100-50)*0.5;
+        // ...
     }
 }
 
