@@ -1,4 +1,5 @@
 この資料は、従来版の後半第2回 - ワンクリックアクションの制作 に対応します。
+[このリポジトリ](https://github.com/trnciii/ciesample-oneclick)からファイルをダウンロードしたら`sample.xcodeproj` を開き、実行できるか確認してください。
 
 ## 目次
 * [準備](#準備)
